@@ -7,7 +7,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | Dia | Tema | Nível | Status |
 | ---: | --- | --- | --- |
 | 01 | SELECT básico | iniciante | Concluído |
-| 02 | WHERE | iniciante | Pendente |
+| 02 | Filtrando dados com WHERE | iniciante | Concluído |
 | 03 | ORDER BY | iniciante | Pendente |
 | 04 | LIMIT e OFFSET | iniciante | Pendente |
 | 05 | INSERT | iniciante | Pendente |
