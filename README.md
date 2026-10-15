@@ -10,7 +10,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 02 | Filtrando dados com WHERE | iniciante | Concluído |
 | 03 | Ordenando resultados com ORDER BY | iniciante | Concluído |
 | 04 | Limitando e paginando resultados | iniciante | Concluído |
-| 05 | INSERT | iniciante | Pendente |
+| 05 | Inserindo dados com INSERT | iniciante | Concluído |
 | 06 | UPDATE | iniciante | Pendente |
 | 07 | DELETE | iniciante | Pendente |
 | 08 | Tipos de dados | iniciante | Pendente |
