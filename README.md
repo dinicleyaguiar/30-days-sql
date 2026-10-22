@@ -13,7 +13,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 05 | Inserindo dados com INSERT | iniciante | Concluído |
 | 06 | Atualizando registros com UPDATE | iniciante | Concluído |
 | 07 | Exclusão de Registros com DELETE | iniciante | Concluído |
-| 08 | Tipos de dados | iniciante | Pendente |
+| 08 | Tipos de dados em SQL | iniciante | Concluído |
 | 09 | Chaves primárias e estrangeiras | iniciante | Pendente |
 | 10 | Revisão prática do nível iniciante | iniciante | Pendente |
 | 11 | JOIN | intermediário | Pendente |
