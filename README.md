@@ -15,7 +15,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 07 | Exclusão de Registros com DELETE | iniciante | Concluído |
 | 08 | Tipos de dados em SQL | iniciante | Concluído |
 | 09 | Chaves primárias e estrangeiras | iniciante | Concluído |
-| 10 | Revisão prática do nível iniciante | iniciante | Pendente |
+| 10 | Revisão prática com banco de dados relacional | iniciante | Concluído |
 | 11 | JOIN | intermediário | Pendente |
 | 12 | GROUP BY | intermediário | Pendente |
 | 13 | HAVING | intermediário | Pendente |
