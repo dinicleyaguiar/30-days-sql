@@ -16,7 +16,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 08 | Tipos de dados em SQL | iniciante | Concluído |
 | 09 | Chaves primárias e estrangeiras | iniciante | Concluído |
 | 10 | Revisão prática com banco de dados relacional | iniciante | Concluído |
-| 11 | JOIN | intermediário | Pendente |
+| 11 | Day 11: Exercício de JOIN com tabelas de clientes e pedidos | intermediário | Concluído |
 | 12 | GROUP BY | intermediário | Pendente |
 | 13 | HAVING | intermediário | Pendente |
 | 14 | Funções de agregação | intermediário | Pendente |
