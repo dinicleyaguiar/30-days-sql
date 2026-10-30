@@ -19,7 +19,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 11 | Day 11: Exercício de JOIN com tabelas de clientes e pedidos | intermediário | Concluído |
 | 12 | Agrupando dados com GROUP BY | intermediário | Concluído |
 | 13 | Day 13: Exercício com HAVING para filtrar grupos de dados | intermediário | Concluído |
-| 14 | Funções de agregação | intermediário | Pendente |
+| 14 | Day 14: Funções de agregação | intermediário | Concluído |
 | 15 | Subqueries | intermediário | Pendente |
 | 16 | CASE | intermediário | Pendente |
 | 17 | Views | intermediário | Pendente |
