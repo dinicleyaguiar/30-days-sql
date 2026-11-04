@@ -21,7 +21,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 13 | Day 13: Exercício com HAVING para filtrar grupos de dados | intermediário | Concluído |
 | 14 | Day 14: Funções de agregação | intermediário | Concluído |
 | 15 | Subqueries: Filtrando dados com consultas aninhadas | intermediário | Concluído |
-| 16 | CASE | intermediário | Pendente |
+| 16 | Day 16: Uso do CASE para categorização condicional | intermediário | Concluído |
 | 17 | Views | intermediário | Pendente |
 | 18 | Índices | intermediário | Pendente |
 | 19 | Normalização | intermediário | Pendente |
