@@ -23,7 +23,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 15 | Subqueries: Filtrando dados com consultas aninhadas | intermediário | Concluído |
 | 16 | Day 16: Uso do CASE para categorização condicional | intermediário | Concluído |
 | 17 | Day 17: Criando e usando views para simplificar consultas complexas | intermediário | Concluído |
-| 18 | Índices | intermediário | Pendente |
+| 18 | Day 18: Índices para otimizar consultas | intermediário | Concluído |
 | 19 | Normalização | intermediário | Pendente |
 | 20 | Mini projeto intermediário | intermediário | Pendente |
 | 21 | CTEs | avançado | Pendente |
