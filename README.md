@@ -24,7 +24,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 16 | Day 16: Uso do CASE para categorização condicional | intermediário | Concluído |
 | 17 | Day 17: Criando e usando views para simplificar consultas complexas | intermediário | Concluído |
 | 18 | Day 18: Índices para otimizar consultas | intermediário | Concluído |
-| 19 | Normalização | intermediário | Pendente |
+| 19 | Day 19: Normalização de Banco de Dados | intermediário | Concluído |
 | 20 | Mini projeto intermediário | intermediário | Pendente |
 | 21 | CTEs | avançado | Pendente |
 | 22 | Window functions | avançado | Pendente |
