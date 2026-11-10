@@ -26,7 +26,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 18 | Day 18: Índices para otimizar consultas | intermediário | Concluído |
 | 19 | Day 19: Normalização de Banco de Dados | intermediário | Concluído |
 | 20 | Day 20: Transações e Integridade de Dados | intermediário | Concluído |
-| 21 | CTEs | avançado | Pendente |
+| 21 | CTEs para análise hierárquica | avançado | Concluído |
 | 22 | Window functions | avançado | Pendente |
 | 23 | Transações | avançado | Pendente |
 | 24 | Constraints | avançado | Pendente |
