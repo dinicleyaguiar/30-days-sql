@@ -29,7 +29,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 21 | CTEs para análise hierárquica | avançado | Concluído |
 | 22 | Day 22: Funções de Janela para Análise de Dados | avançado | Concluído |
 | 23 | Day 23: Transações e Integridade de Dados | avançado | Concluído |
-| 24 | Constraints | avançado | Pendente |
+| 24 | Day 24: Constraints em SQL | avançado | Concluído |
 | 25 | Planos de execução | avançado | Pendente |
 | 26 | Otimização de consultas | avançado | Pendente |
 | 27 | Modelagem relacional | avançado | Pendente |
