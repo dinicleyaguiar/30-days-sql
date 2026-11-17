@@ -30,7 +30,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 22 | Day 22: Funções de Janela para Análise de Dados | avançado | Concluído |
 | 23 | Day 23: Transações e Integridade de Dados | avançado | Concluído |
 | 24 | Day 24: Constraints em SQL | avançado | Concluído |
-| 25 | Planos de execução | avançado | Pendente |
+| 25 | Análise de Planos de Execução com EXPLAIN | avançado | Concluído |
 | 26 | Otimização de consultas | avançado | Pendente |
 | 27 | Modelagem relacional | avançado | Pendente |
 | 28 | Auditoria de dados | avançado | Pendente |
