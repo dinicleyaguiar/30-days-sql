@@ -33,7 +33,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 25 | Análise de Planos de Execução com EXPLAIN | avançado | Concluído |
 | 26 | Day 26: Otimização de Consultas com Índices e Estrutura | avançado | Concluído |
 | 27 | Modelagem Relacional: Criação de Esquema de Banco de Dados | avançado | Concluído |
-| 28 | Auditoria de dados | avançado | Pendente |
+| 28 | Auditoria de Dados: Identificação de Duplicatas | avançado | Concluído |
 | 29 | Segurança e privilégios | avançado | Pendente |
 | 30 | Projeto final SQL | avançado | Pendente |
 
