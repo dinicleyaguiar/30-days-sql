@@ -35,7 +35,7 @@ Uma trilha prática de 30 dias para evoluir em SQL, começando pelos fundamentos
 | 27 | Modelagem Relacional: Criação de Esquema de Banco de Dados | avançado | Concluído |
 | 28 | Auditoria de Dados: Identificação de Duplicatas | avançado | Concluído |
 | 29 | Controle de Acesso com Privilégios em SQL | avançado | Concluído |
-| 30 | Projeto final SQL | avançado | Pendente |
+| 30 | Análise de Vendas com CTEs e Funções de Janela | avançado | Concluído |
 
 ## Organização
 
